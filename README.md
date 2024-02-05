@@ -17,7 +17,7 @@
     - npm install was tricky but resolved with installation of newer version
 
 - 5/2/24
-- Rose (What went well)
-  - Staring the layout of the main Discover page, initial formatting, setup and exploration of project structure
-- Bud (What has potential)
-  - Formatting inside the class <> is interesting
+  - Rose (What went well)
+    - Staring the layout of the main Discover page, initial formatting, setup and exploration of project structure
+  - Bud (What has potential)
+    - Formatting inside the class <> is interesting
