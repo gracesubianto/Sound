@@ -1,5 +1,15 @@
 # Sound
 
+## Project Overview
+
+This repository contains a clone of the [Spotify](https://open.spotify.com/) Web Player functionality using React. Development languages used include JavaScript, CSS and HTML.
+
+The aim of this project is to explore React frontend development, use open-source API libraries develop design thinking skills.
+
+## Project Result
+
+-
+
 ## Resources Used
 
 - [Tutorial](https://www.youtube.com/watch?v=I1cpb0tYV74)
@@ -15,4 +25,4 @@ Each Sprint will also has a Retrospective list in order to track any issues I ca
 
 View the current project timeline on the public Trello board [here](https://trello.com/b/eCi07Jio/sound-project-tracking).
 
-<img src="images/trello-setup.png" width="600">
+<img src="images/trello-setup.png" width="700">
