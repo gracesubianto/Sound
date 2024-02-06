@@ -8,3 +8,5 @@
 ## Project management
 
 The project planning and management process was tracked via Trello. View the current project timeline on the public Trello board [here](https://trello.com/b/eCi07Jio/sound-project-tracking).
+
+<img src="images/trello-setup.png" width="400">
