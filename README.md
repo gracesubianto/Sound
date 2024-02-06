@@ -8,15 +8,6 @@ This repository contains a clone of the [Spotify](https://open.spotify.com/) Web
 
 The aim of this project is to explore React frontend development, use open-source API libraries and develop design thinking skills.
 
-## Project Result
-
-TBC
-
-## Resources Used
-
-- [Tutorial](https://www.youtube.com/watch?v=I1cpb0tYV74)
-- [node install](https://nodejs.org/en/download/)
-
 ## Project Management
 
 The project planning and management process is tracked via Trello.
@@ -28,3 +19,12 @@ Each Sprint will also has a Retrospective list in order to track any issues I ca
 View the current project progress on the public Trello board [here](https://trello.com/b/eCi07Jio/sound-project-tracking).
 
 <img src="images/trello-setup.png" width="700">
+
+## Project Result
+
+TBC
+
+## Resources Used
+
+- [Tutorial](https://www.youtube.com/watch?v=I1cpb0tYV74)
+- [node install](https://nodejs.org/en/download/)
