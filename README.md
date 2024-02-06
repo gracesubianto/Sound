@@ -11,9 +11,11 @@ The aim of this project is to explore React frontend development, use open-sourc
 ## Project Management
 
 The project planning and management process is tracked via Trello, following an Agile inspired workflow.
-Project requirements were reviewed and broken down into tasks, as seen in the Project Backlog list.
+
+Project requirements were reviewed and broken down into tasks, as seen in the overall Project Backlog list.
 Development of the project was broken down into 3 Sprints. Each Sprint has its' own backlog, and once development starts tasks are moved into the To Do, In Progress and Complete lists respectively.
-Each Sprint has a Retrospective list used to track any issues during development. These are structured using the Rose, Bud, Thorn framework.
+
+Each Sprint also has a Retrospective list used to track any issues during development. These are structured using the Rose, Bud, Thorn framework.
 
 View the current project progress on the public Trello board [here](https://trello.com/b/eCi07Jio/sound-project-tracking).
 
