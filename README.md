@@ -4,9 +4,9 @@
 
 This repository contains a clone of the [Spotify](https://open.spotify.com/) Web Player functionality using React. Development languages used include JavaScript, CSS and HTML.
 
-<img src="images/original-spotify.png" width="700">
-
 The aim of this project is to explore React frontend development, use open-source API libraries and develop design thinking skills.
+
+<img src="images/original-spotify.png" width="700">
 
 ## Project Management
 
